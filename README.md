@@ -3,7 +3,7 @@
 This repository contains a **QR Code Generator** project built using HTML, CSS, and JavaScript. It allows users to generate and download QR codes for any text or URL.
 
 ## Project Overview
-
+PREVIEW: https://qrcodegenerator-pks.netlify.app/
 - Generates QR codes based on user input.
 - Allows users to select QR code size.
 - Provides an easy-to-use interface with a simple design.
